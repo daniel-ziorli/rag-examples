@@ -11,8 +11,10 @@ Late Chunking: This method involves encoding the entire document first using a l
 ```
 Chunks = [
   "Berlin is the capital and largest city of Germany, both by area and by population",
-  "Its more than 3.85 million inhabitants make it the European Union's most populous city, as measured by population within city limits",
-  "The city is also one of the states of Germany, and is the third smallest state in the country in terms of area.\r\n"
+  "Its more than 3.85 million inhabitants make it the European Union's most populous city,
+  as measured by population within city limits",
+  "The city is also one of the states of Germany, and is the third smallest state in the
+  country in terms of area"
 ]
 
 Query = "Berlin"
