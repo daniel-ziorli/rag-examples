@@ -31,4 +31,5 @@ In contrast, Late Chunking maintains more consistent similarity scores across al
 ## Read more
 
 https://jina.ai/news/late-chunking-in-long-context-embedding-models/
+
 https://weaviate.io/blog/late-chunking
